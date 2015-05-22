@@ -1,4 +1,4 @@
-# Exemplo de código do tutorial: 
+# Código exemplo do tutorial: 
 ## Como implementar Efeitos de vibração e Sonoros em objective-C
 
 ### Descrição
